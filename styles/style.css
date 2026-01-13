@@ -130,3 +130,49 @@ nav .menu li a{
     margin-bottom: 21.5px;
 }
 
+
+
+
+
+.solution-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1360px;
+    
+}
+
+ .solution-img{
+    width: 600px;
+    height: 600px;
+}
+
+.solution-way h3{
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #469165;
+    margin-bottom: 16px;
+}
+
+.solution-way h1{
+
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 16px;
+    
+
+
+}
+
+.solution-way .para{
+    color: #627382;
+    margin-bottom: 40px;
+}
+
+.section-content{
+    justify-content: center;
+    text-align: center;
+}
+
