@@ -94,3 +94,39 @@ nav .menu li a{
     justify-content: center;
 }
 
+#recommendation .section-heading{
+    text-align: center;
+
+}
+.section-heading h1{
+    font-size: 48px;
+    margin-top: 50px;
+}
+.section-heading p{
+    margin-bottom: 16px;
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382
+    
+}
+
+.recommendation-card{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    max-width: 1536px;
+    margin: 44px 120px;
+    gap: 44px;
+    text-align: center;
+}
+.card h3{
+    font-size: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+}
+
+.card p{
+    color: #627382;
+    margin-bottom: 21.5px;
+}
+
