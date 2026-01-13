@@ -44,5 +44,53 @@ nav .menu li a{
     cursor: pointer;
     
 }
+#banner{
+    background: url(../assets/hero-bg.png);
+}
 
+.banner-content{
+    text-align: center;
+    padding: 115.5px 120px 179.5px;
+}
+
+.banner-content h3{
+    margin-top: 115.5px;
+    margin-bottom: 16px;
+    
+    font-size: 16px;
+    width: 229px;
+    border-radius: 50px;
+    color: #469165;
+    background-color: white;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.banner-content h1{
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 84px;
+    color: white;
+    margin-bottom: 16px;
+    
+    
+}
+
+.banner-content p{
+    
+    font-weight: 400px;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 32px;
+    
+}
+.color-green{
+    color: #469165;
+}
+
+.banner-content div{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
 
