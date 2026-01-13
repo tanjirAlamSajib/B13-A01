@@ -176,3 +176,75 @@ nav .menu li a{
     text-align: center;
 }
 
+
+.last-section{
+    margin-top: 40px;
+}
+
+.section-content{
+    padding-top: 80px;
+}
+
+.section-content h1{
+    font-size: 40px;
+}
+.section-content p{
+    color: #627382;
+    margin-bottom: 24px;
+    
+}
+.section-content .btn{
+    margin-bottom: 16px;
+    box-shadow: 0 6px 50px 0 #0000002a ;
+}
+
+footer {
+  background-color: #001931;
+  padding: 60px 120px 30px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;            
+  max-width: 1360px;
+  margin: 0 auto;
+}
+
+.footer-content img {
+  display: block;
+}
+
+.social{
+    text-align: center;
+}
+
+
+.social a{
+    display: inline-block;
+    
+}
+
+.footer-content .social p {
+  color: white;
+  margin-bottom: 12px;
+}
+
+.social a img {
+  margin: 0 6px;
+}
+
+.copywrite {
+  color: white;
+  text-align: center;
+  margin: 40px 0 16px;
+}
+
+footer hr {
+
+  width: 80%;
+  margin: 80px auto;
+  border: 1px solid rgba(255,255,255,0.2);
+}
+
+
